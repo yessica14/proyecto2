@@ -32,3 +32,9 @@ body{
   border:solid;
   border-color:rgb(107, 25, 189);
 }
+.cambiar{
+  background-color:rgb(235, 20, 174);
+}
+.cam{
+  font-family: Arial,Helvetica,sans-serif;
+}
